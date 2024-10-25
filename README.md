@@ -11,10 +11,10 @@ Ich versuche einen Elfmeterschiessen-Spiel auf einer Webseite mit JS zu machen. 
 
 ## 25.10.2024
 
-- [ ] Ich informiere mich darüber, wie man html, css und JS verknüpft
-- [ ] Ich mache einen webseite mit einem Button der eine Zahl generiert zum üben.
+- [x] Ich informiere mich darüber, wie man html, css und JS verknüpft
+- [x] Ich mache einen webseite mit einem Button der eine Zahl generiert zum üben.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich darüber informiert, wie ich JS mit HTML connecten kann, um z. B. Buttons eine Funktion zuzuweisen. Danach habe ich das mit einem sehr kleinen Projekt geübt, um es mir einfacher merken zu können und nicht vergesse.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
