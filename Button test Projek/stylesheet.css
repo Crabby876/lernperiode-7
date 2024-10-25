@@ -1,0 +1,27 @@
+#button{
+    height: 120px;
+    width: 300px;
+    font-size: large;
+    margin-right: auto;
+    margin-left: auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+#ausgabe{
+    background-color: antiquewhite;
+    height: 100px;
+    padding: 40px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+}
