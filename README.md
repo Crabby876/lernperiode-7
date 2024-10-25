@@ -16,13 +16,12 @@ Ich versuche einen Elfmeterschiessen-Spiel auf einer Webseite mit JS zu machen. 
 
 ✍️ Heute habe ich mich darüber informiert, wie ich JS mit HTML connecten kann, um z. B. Buttons eine Funktion zuzuweisen. Danach habe ich das mit einem sehr kleinen Projekt geübt, um es mir einfacher merken zu können und nicht vergesse.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
-
 ## 1.11.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Zahl generierendes Button vertigstellen.
+- [ ] Lernen wie man Objekte auf einer Webseite bewegen kann mit JS
+- [ ] Einen Pfeil erstellen der sich nach link und nach recht dreht.
+- [ ] ein Torwart erstellen der sich links und rechts bewegen kann
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
