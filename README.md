@@ -18,7 +18,7 @@ Ich versuche einen Elfmeterschiessen-Spiel auf einer Webseite mit JS zu machen. 
 
 ## 1.11.2024
 
-- [ ] Zahl generierendes Button vertigstellen.
+- [ ] Modul 294 La 8423 fertigmachen.(DOM)
 - [ ] Lernen wie man Objekte auf einer Webseite bewegen kann mit JS
 - [ ] Einen Pfeil erstellen der sich nach link und nach recht dreht.
 - [ ] ein Torwart erstellen der sich links und rechts bewegen kann
