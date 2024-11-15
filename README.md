@@ -26,9 +26,18 @@ Ich versuche einen Elfmeterschiessen-Spiel auf einer Webseite mit JS zu machen. 
 Heute habe ichsehr viel über DOM gelernt. Ich habe gelernt wie man suchen mit einem Textfeld eröglichen kann (filtern). Ich habe gelernt wie man sachen in ein Array oder ein Objekt einzeln in einer Listen in html ausgeben kann. Es hat sehrlange gedauert bis ich das Filtern verstanden habe. Dannach habe ich noch EventListener gelernt. Das alles wird sehr hilfreich sein in Zukunft denke ich.
 
 
-## 8.15.2024
+## 15.11.2024
 
 - [ ] Modul 294 CRUD Aufgabe fertig machen.
-- [ ] Ich möchte lernen wie man Frames per second inplemetieren kann damit ich eine durchgehende animation habe.
-- [ ] Lernen wie man Objekte auf einer Webseite bewegen kann mit JS
-- [ ] Einen Pfeil erstellen der sich nach link und nach recht dreht.
+- [x] Ich möchte lernen wie man Frames per second inplemetieren kann damit ich eine durchgehende animation habe.
+- [x] Lernen wie man Objekte auf einer Webseite bewegen kann mit JS
+- [x] Einen Pfeil erstellen der sich nach link und nach recht dreht.
+
+Ich habe als erstes versucht den Modul Auftrag abzuschliessen, jedoch ist das mir nicht gelungen, da es ein Problem gab. Danach habe ich angefangen, an meinem Projekt zu arbeiten, damit ich nicht zu viel Zeit verliere. Ich habe einen Pfeil eingefügt, der sich nach links und nach rechts bewegt und bei Mausklick stoppt. Danach habe ich noch einen roten Rechteck eingefügt als Goali, doch der kann bis jetzt noch nichts.
+
+## 22-11-2024
+
+- [ ] Ein Torwart einfügen und positionieren
+- [ ] Dem Torwart zum Bewegen bringen (nach links und rechts)
+- [ ] Ein Goal einfügen und es hinter dem Torwart platzieren
+- [ ] Ein Ball hinzufügen.
