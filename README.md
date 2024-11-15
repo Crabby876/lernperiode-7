@@ -26,9 +26,9 @@ Ich versuche einen Elfmeterschiessen-Spiel auf einer Webseite mit JS zu machen. 
 Heute habe ichsehr viel über DOM gelernt. Ich habe gelernt wie man suchen mit einem Textfeld eröglichen kann (filtern). Ich habe gelernt wie man sachen in ein Array oder ein Objekt einzeln in einer Listen in html ausgeben kann. Es hat sehrlange gedauert bis ich das Filtern verstanden habe. Dannach habe ich noch EventListener gelernt. Das alles wird sehr hilfreich sein in Zukunft denke ich.
 
 
-## 8.11.2024
+## 8.15.2024
 
+- [ ] Modul 294 CRUD Aufgabe fertig machen.
 - [ ] Ich möchte lernen wie man Frames per second inplemetieren kann damit ich eine durchgehende animation habe.
 - [ ] Lernen wie man Objekte auf einer Webseite bewegen kann mit JS
 - [ ] Einen Pfeil erstellen der sich nach link und nach recht dreht.
-- [ ] ein Torwart erstellen der sich links und rechts bewegen kann
