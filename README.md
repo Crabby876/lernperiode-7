@@ -46,7 +46,15 @@ Ich habe heute als erstes mir ein paar tutorials zu dem Fetch befehl von Java Sc
 
 ## 29.11.2024
 
-- [ ] Den Torwart zum Bewegen bringen (nach links und rechts)
-- [ ] Ein Goal einfügen und es hinter dem Torwart platzieren
-- [ ] Ein Ball hinzufügen.
-- [ ] Das erscheinen nach dem klick vom Ball bearbeiten.
+- [x] LB 394 Aufgabe 1 machen
+- [x] LB 394 Aufgabe 3 machen
+- [x] LB 294 Aufgabe 1 machen
+- [x] LB 294 Aufgabe 2 starten
+
+Ich habe heute an den LBs gearbeitet da wie sehr viele Abgaben habe in den nächsten wochen. Ich habe als erstes mit AWS gearbeitet und habe mich danach mit meiner SPA beschäfftig. Ich habe zu erst mit dom eine Searchbar implementiert und habe eine filter funktion eingebaut die meine JSON Objecte filtert.
+
+## 06.12.2024
+- [ ] AOC Tag 1 lösen
+- [ ] AOC Tag 2 lösen
+- [ ] Webseite von LB 294 vertigstellen mit API
+- [ ] LB 294 Webseite testen
