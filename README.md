@@ -54,7 +54,9 @@ Ich habe heute als erstes mir ein paar tutorials zu dem Fetch befehl von Java Sc
 Ich habe heute an den LBs gearbeitet da wie sehr viele Abgaben habe in den nächsten wochen. Ich habe als erstes mit AWS gearbeitet und habe mich danach mit meiner SPA beschäfftig. Ich habe zu erst mit dom eine Searchbar implementiert und habe eine filter funktion eingebaut die meine JSON Objecte filtert.
 
 ## 06.12.2024
-- [ ] AOC Tag 1 lösen
+- [x] AOC Tag 1 lösen
 - [ ] AOC Tag 2 lösen
-- [ ] Webseite von LB 294 vertigstellen mit API
-- [ ] LB 294 Webseite testen
+- [x] Webseite von LB 294 vertigstellen mit API
+- [x] LB 294 Webseite testen
+
+Heute habe ich sehr viel an meiner Webseite für den LB von M294 gearbeitet. Spezifisch habe ich den grössten Teil meines Zeites mit DOM in JS verbracht und mit Fetch functionen. Ich habe nur wenig css benutz aber troydem bin ich zufrieden mit dem endergebniss. Danach habe ich den ADC Tag 1 gelöst und habe meine Webseite mit Selenium getested.
