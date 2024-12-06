@@ -59,4 +59,4 @@ Ich habe heute an den LBs gearbeitet da wie sehr viele Abgaben habe in den näch
 - [x] Webseite von LB 294 vertigstellen mit API
 - [x] LB 294 Webseite testen
 
-Heute habe ich sehr viel an meiner Webseite für den LB von M294 gearbeitet. Spezifisch habe ich den grössten Teil meines Zeites mit DOM in JS verbracht und mit Fetch functionen. Ich habe nur wenig css benutz aber troydem bin ich zufrieden mit dem endergebniss. Danach habe ich den ADC Tag 1 gelöst und habe meine Webseite mit Selenium getested.
+Heute habe ich sehr viel an meiner Webseite für den LB von M294 gearbeitet. Spezifisch habe ich den grössten Teil meines Zeites mit DOM in JS verbracht und mit Fetch functionen. Ich habe nur wenig css benutz aber troydem bin ich zufrieden mit dem endergebniss. Danach habe ich den AOC Tag 1 gelöst und habe meine Webseite mit Selenium getested.
