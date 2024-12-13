@@ -54,7 +54,7 @@ Ich habe heute als erstes mir ein paar tutorials zu dem Fetch befehl von Java Sc
 Ich habe heute an den LBs gearbeitet da wie sehr viele Abgaben habe in den nächsten wochen. Ich habe als erstes mit AWS gearbeitet und habe mich danach mit meiner SPA beschäfftig. Ich habe zu erst mit dom eine Searchbar implementiert und habe eine filter funktion eingebaut die meine JSON Objecte filtert.
 
 ## 06.12.2024
-- [x] AOC Tag 1 lösen
+- [ ] AOC Tag 1 lösen
 - [ ] AOC Tag 2 lösen
 - [x] Webseite von LB 294 vertigstellen mit API
 - [x] LB 294 Webseite testen
@@ -62,7 +62,15 @@ Ich habe heute an den LBs gearbeitet da wie sehr viele Abgaben habe in den näch
 Heute habe ich sehr viel an meiner Webseite für den LB von M294 gearbeitet. Spezifisch habe ich den grössten Teil meines Zeites mit DOM in JS verbracht und mit Fetch functionen. Ich habe nur wenig css benutz aber troydem bin ich zufrieden mit dem endergebniss. Danach habe ich den AOC Tag 1 gelöst und habe meine Webseite mit Selenium getested.
 
 ## 13.12.2024
-- [ ] Ein Torwart einfügen und positionieren. (Penalty Projekt)
+
+- [x] AOC Tag 1 lösen.
+- [ ] AOC Tag 2 lösen.
+- [x] Ein Torwart einfügen und positionieren. (Penalty Projekt)
 - [ ] Torwart bewegug impleentieren.
-- [ ] Goal einfügen und Positionieren
-- [ ] Ball einfügen und Funktion zu berechnen der Gezielten Position erstellen.
+
+Heute habe ich mich hauptsächlich mit AOC beschäftigt, ich dachte, das es nur eine Aufgabe pro Tag ist und habe deshalb die Dauer unterschätzt. Ich habe beide Aufgaben von Tag 1 gelöst und die erste von Tag 2 angefangen. Dazwischen habe ich noch ein Torwart in meine Webseite eingefügt, jedoch hatte ich Probleme ihn richtig zu positionieren mit CSS.
+
+## 20.12.2024
+
+- [ ] AOC Tag 2 teil 2 lösen
+- [ ] AOC Tag 3 lösen.
