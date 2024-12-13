@@ -60,3 +60,9 @@ Ich habe heute an den LBs gearbeitet da wie sehr viele Abgaben habe in den näch
 - [x] LB 294 Webseite testen
 
 Heute habe ich sehr viel an meiner Webseite für den LB von M294 gearbeitet. Spezifisch habe ich den grössten Teil meines Zeites mit DOM in JS verbracht und mit Fetch functionen. Ich habe nur wenig css benutz aber troydem bin ich zufrieden mit dem endergebniss. Danach habe ich den AOC Tag 1 gelöst und habe meine Webseite mit Selenium getested.
+
+## 13.12.2024
+- [ ] Ein Torwart einfügen und positionieren. (Penalty Projekt)
+- [ ] Torwart bewegug impleentieren.
+- [ ] Goal einfügen und Positionieren
+- [ ] Ball einfügen und Funktion zu berechnen der Gezielten Position erstellen.
